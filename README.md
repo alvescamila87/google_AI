@@ -5,8 +5,9 @@
 ### Sobre o projeto
 Este projeto consiste em um chatbot que simula um cabeleireiro especializado em cortes de cabelo para jogadores de futebol. O chatbot utiliza a API do Google Generative AI para gerar respostas e informações personalizadas sobre cortes de cabelo de acordo com o jogador informado.
 
-### Pré-requisitos
-* Python 3.7 ou superior ou Google Colab
+### Desenvolvimento
+* Versão Gemini 1.5 Pro
+* Google Colab (ou Python 3.7 ou superior)
 * Biblioteca google-generativeai: Instale usando pip install -q -U google-generativeai
 * Chave de API do Google AI: Obtenha sua chave de API no Google Cloud Platform e configure-a no código usando "genai.configure(api_key='COLE SUA CHAVE AQUI)"
 
