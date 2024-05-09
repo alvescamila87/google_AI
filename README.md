@@ -25,14 +25,5 @@ Observação: As informações geradas pelo chatbot são simuladas e podem não 
 ### Exemplo de uso
 ![image](https://github.com/alvescamila87/google_AI/assets/116912821/2baa1193-7b15-48c8-9681-33b4ec8d2ded)
 
-
-[Saída do chatbot]
-
-Nome do jogador: Neymar
-Modelo de cabelo: Corte degradê com topo texturizado
-Formato do rosto: Oval
-Manutenção: Média, requer visitas regulares ao barbeiro para manter o degradê
-Tempo de arrumar: Curto, o cabelo já possui uma textura natural que facilita o penteado`
-
 ### Autor
 Camila Alves
